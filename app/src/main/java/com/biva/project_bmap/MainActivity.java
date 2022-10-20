@@ -20,6 +20,8 @@ import android.view.MenuItem;
 
 public class MainActivity extends AppCompatActivity {
     // Test
+    //Test
+    //Test
     private AppBarConfiguration appBarConfiguration;
     private ActivityMainBinding binding;
 
